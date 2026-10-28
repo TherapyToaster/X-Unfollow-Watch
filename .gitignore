@@ -1,0 +1,6 @@
+state*.json
+*.state.json
+snapshots/
+.env
+__pycache__/
+*.pyc
